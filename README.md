@@ -39,13 +39,14 @@
  
 
 
-It's a simple app, only to study XIB, TableViewCell, CustomCell and how show the infos in anoter view
+It's a simple app, only to study XIB, TableViewCell, CustomCell and Tab bar
+This app use Podfile
 
 
 <!-- GETTING STARTED -->
 ## Getting Started
 
-Open the file pokemonMVC.xcodeproj 
+Open the file roletarussa.xcworkspace
 
 ### Prerequisites
 
